@@ -140,14 +140,6 @@
     ]
   },
   {
-    "name": "WebNavigator",
-    "pluginKey": "WebNavigator",
-    "description": "WebNavigator",
-    "icon": "/assets/webnavigator.png",
-    "isAuthRequired": "false",
-    "authConfig": []
-  },
-  {
     "name": "Flux",
     "pluginKey": "flux",
     "description": "Generate images using text with the Flux API.",
@@ -160,13 +152,5 @@
         "description": "Provide your Flux API key from your user profile."
       }
     ]
-  },
-  {
-    "name": "E2BCode",
-    "pluginKey": "E2BCode",
-    "description": "Run code in an E2B sandbox",
-    "icon": "/assets/flux.png",
-    "isAuthRequired": "false",
-    "authConfig": []
   }
 ]
